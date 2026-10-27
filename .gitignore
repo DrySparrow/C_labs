@@ -3,3 +3,8 @@
 .vscode
 *.csv
 *.txt
+**/.idea/
+**/cmake-build*/
+build/
+*.static
+tmp
